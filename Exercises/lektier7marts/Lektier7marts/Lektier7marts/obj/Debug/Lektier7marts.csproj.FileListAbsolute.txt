@@ -1,0 +1,6 @@
+C:\Users\sbh\OneDrive - TM GROUP AS\AU IT\Grun. programmering\Exercises\lektier7marts\Lektier7marts\Lektier7marts\bin\Debug\Lektier7marts.exe.config
+C:\Users\sbh\OneDrive - TM GROUP AS\AU IT\Grun. programmering\Exercises\lektier7marts\Lektier7marts\Lektier7marts\bin\Debug\Lektier7marts.exe
+C:\Users\sbh\OneDrive - TM GROUP AS\AU IT\Grun. programmering\Exercises\lektier7marts\Lektier7marts\Lektier7marts\bin\Debug\Lektier7marts.pdb
+C:\Users\sbh\OneDrive - TM GROUP AS\AU IT\Grun. programmering\Exercises\lektier7marts\Lektier7marts\Lektier7marts\obj\Debug\Lektier7marts.csprojResolveAssemblyReference.cache
+C:\Users\sbh\OneDrive - TM GROUP AS\AU IT\Grun. programmering\Exercises\lektier7marts\Lektier7marts\Lektier7marts\obj\Debug\Lektier7marts.exe
+C:\Users\sbh\OneDrive - TM GROUP AS\AU IT\Grun. programmering\Exercises\lektier7marts\Lektier7marts\Lektier7marts\obj\Debug\Lektier7marts.pdb
